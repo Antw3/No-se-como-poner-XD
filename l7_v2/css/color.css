@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.galeria{
+	
+	background-color: aquamarine;
+	height: 50px;
+	width: 24%;
+	float: left;
+	margin: 0.5%;
+
+}
+.encabezado {
+	color: wheat;
+	background-color: chocolate;
+	height: 50px;
+}
+
+.footer{
+	background-color: chartreuse;
+	height: 50px;
+	width: 30%;
+	float: left;
+	margin-left:1.6%;
+	margin-right: 1.6%;	
+	margin-top: 5%;
+}
+.perroOrejaslargas {
+	clear: both;
+	
+}
